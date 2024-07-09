@@ -1,0 +1,1 @@
+Consiste em um codigo de um jogo de aposta em java onde temos 2 dados e podemos ter ate 11 jogadores, cada um pode escolher um numero entre 2 e 12, se algum jogador acertar o numero ele ganha a partida, se ninguem ganhar o computador ganha. Ainda não consegui implementar o arquivo csv corretamente.
